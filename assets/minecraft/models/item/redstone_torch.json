@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/redstone_torch",
+  "textures": {
+    "layer0": "minecraft:block/redstone_torch"
+  }
+}
